@@ -2,11 +2,15 @@
   "name": "vite-simple-mpa",
   "version": "1.0.0",
   "main": "index.js",
-  "keywords": [],
   "author": "Jefferson5286",
-  "license": "MIT License",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "vite": "^6.2.4"
-  }
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "mpa"
+  ]
 }
